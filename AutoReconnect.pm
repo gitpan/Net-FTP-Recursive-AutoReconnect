@@ -1,5 +1,5 @@
 package Net::FTP::Recursive::AutoReconnect;
-our $VERSION = '1.0';
+our $VERSION = '1.1';
 
 #use warnings;
 #use strict;
